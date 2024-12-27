@@ -9,7 +9,7 @@
                         <img src="{{ asset('storage/file_assets/logo-telkom2.png') }}" alt="Logo 1" class="logo">
                     </div>
                     <span class="h3">
-                        Management Data Collection
+                        Selamat Datang di Management Data Collection
                     </span>
                 </div>
                 <form method="POST" action="{{ route('login') }}">
